@@ -34,7 +34,8 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   * [Conversations](https://github.com/siacs/Conversations) (Android 4+)
   * [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS) (iOS)
   * [gajim](http://gajim.org/) (Windows/Linux)
-  * [coy.im](https://github.com/twstrike/coyim) (Windows/Linux/Mac)
+  * [coy.im](https://github.com/twstrike/coyim) (Windows/Linux/macOS)
+  * [Profanity](https://github.com/boothj5/profanity) (Linux/macOS/FreeBSD/Windows)
 
 ## Encryption protocols
 
