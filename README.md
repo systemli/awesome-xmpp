@@ -4,6 +4,16 @@
 
 A curated list of amazingly awesome XMPP server, clients, libraries, resources - with focus on security.
 
+**Table of Contents**
+
+- [Awesome XMPP](#awesome-xmpp)
+  - [Protocol](#protocol)
+  - [Server](#server)
+  - [Clients](#clients)
+  - [Encryption protocols](#encryption-protocols)
+  - [Libraries](#libraries)
+  - [Further Reading](#further-reading)
+
 ## Protocol
 
   * [RFC 6120](https://tools.ietf.org/html/rfc6120)
