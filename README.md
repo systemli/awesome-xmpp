@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/systemli/awesome-xmpp)
 
-A curated list of amazingly awesome XMPP server, clients, libraries, resources - with focus on security.
+A curated list of amazingly awesome XMPP server, clients, libraries, resources - **with focus on security**.
 
 **Table of Contents**
 
@@ -12,6 +12,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   - [Clients](#clients)
   - [Encryption protocols](#encryption-protocols)
   - [Libraries](#libraries)
+  - [Bots](#Bots)
   - [Further Reading](#further-reading)
 
 ## Protocol
@@ -71,6 +72,11 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   * Rust
     * https://github.com/Florob/rust-xmpp
 
+## Bots
+
+  * [Errbot](https://github.com/errbotio/errbot)
+  * [Hubot](https://github.com/github/hubot)
+  * [Lita](https://github.com/litaio/lita)
 
 ## Further Reading
 
