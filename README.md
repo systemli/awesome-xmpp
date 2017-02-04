@@ -31,10 +31,11 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
 
 ## Clients
 
-  * [Conversations](https://github.com/siacs/Conversations) (Android 4+)
   * [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS) (iOS)
-  * [gajim](http://gajim.org/) (Windows/Linux)
+  * [Conversations](https://github.com/siacs/Conversations) (Android 4+)
   * [coy.im](https://github.com/twstrike/coyim) (Windows/Linux/macOS)
+  * [gajim](http://gajim.org/) (Windows/Linux)
+  * [Monal](https://github.com/anurodhp/Monal) (macOS/iOS)
   * [Profanity](https://github.com/boothj5/profanity) (Linux/macOS/FreeBSD/Windows)
 
 ## Encryption protocols
