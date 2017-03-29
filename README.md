@@ -83,3 +83,5 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
  * [Are we OMEMO yet?](https://omemo.top/)
  * [Encrypted Instant Messaging January 2017](https://medium.com/@dreamflasher/encrypted-instant-messaging-recommendations-january-2017-711c03af02cc#.1hfzvhz69)
  * [End-to-End Encrypted group chats via XMPP](https://current.workingdirectory.net/posts/2017/encrypted-mucs/)
+ * [The State of Mobile XMPP in 2016](https://gultsch.de/xmpp_2016.html)
+ * [The (Sad) State of Mobile XMPP in 2014](http://op-co.de/blog/posts/mobile_xmpp_in_2014/)
