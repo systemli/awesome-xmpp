@@ -38,6 +38,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   * [gajim](http://gajim.org/) (Windows/Linux)
   * [Monal](https://github.com/anurodhp/Monal) (macOS/iOS)
   * [Profanity](https://github.com/boothj5/profanity) (Linux/macOS/FreeBSD/Windows)
+  * [Dino](https://github.com/dino/dino) (Linux)
 
 ## Encryption protocols
 
