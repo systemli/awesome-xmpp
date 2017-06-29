@@ -54,6 +54,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
     * https://github.com/qxmpp-project/qxmpp
   * C#
     * https://github.com/ubiety/xmpp
+    * https://github.com/meebey/agsxmpp
   * Go
     * https://github.com/agl/xmpp-client
     * https://github.com/mattn/go-xmpp
