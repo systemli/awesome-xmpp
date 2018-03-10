@@ -39,6 +39,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   * [Monal](https://github.com/anurodhp/Monal) (macOS/iOS)
   * [Profanity](https://github.com/boothj5/profanity) (Linux/macOS/FreeBSD/Windows)
   * [Dino](https://github.com/dino/dino) (Linux)
+  * [Converse.js](https://github.com/jcbrand/converse.js) (Web Browser)
 
 ## Encryption protocols
 
