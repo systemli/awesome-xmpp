@@ -37,7 +37,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
   * [coy.im](https://github.com/twstrike/coyim) (Windows/Linux/macOS)
   * [gajim](http://gajim.org/) (Windows/Linux)
   * [Monal](https://github.com/anurodhp/Monal) (macOS/iOS)
-  * [Profanity](https://github.com/boothj5/profanity) (Linux/macOS/FreeBSD/Windows)
+  * [Profanity](https://github.com/profanity-im/profanity) (Linux/macOS/FreeBSD/Windows)
   * [Dino](https://github.com/dino/dino) (Linux)
   * [Converse.js](https://github.com/jcbrand/converse.js) (Web Browser)
 
