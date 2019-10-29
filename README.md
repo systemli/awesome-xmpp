@@ -51,6 +51,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
 
   * C
     * https://github.com/mcabber/loudmouth
+    * https://github.com/strophe/libstrophe
   * C++
     * https://github.com/qxmpp-project/qxmpp
   * C#
