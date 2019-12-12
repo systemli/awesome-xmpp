@@ -71,7 +71,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
     * https://github.com/fabiang/xmpp
     * https://github.com/alexmace/Xmpp
   * Python
-    * https://github.com/fritzy/SleekXMPP
+    * https://lab.louiz.org/poezio/slixmpp
   * Ruby
     * https://github.com/xmpp4r/xmpp4r
   * Rust
