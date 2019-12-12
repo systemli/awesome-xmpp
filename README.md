@@ -62,6 +62,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
     * https://github.com/mattn/go-xmpp
   * Java
     * https://github.com/igniterealtime/Smack
+    * https://bitbucket.org/sco0ter/babbler
   * NodeJS
     * https://github.com/node-xmpp/node-xmpp
   * Objective-C
