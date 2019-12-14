@@ -76,6 +76,7 @@ A curated list of amazingly awesome XMPP server, clients, libraries, resources -
     * https://github.com/xmpp4r/xmpp4r
   * Rust
     * https://github.com/Florob/rust-xmpp
+    * https://gitlab.com/xmpp-rs/xmpp-rs
 
 ## Bots
 
